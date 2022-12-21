@@ -1,4 +1,4 @@
-This project is to predict the real estate housing prices in United States.
+This project is to predict the real estate housing prices in United States. It was done in a group of 4 people.
 
 Data Source- https://www.kaggle.com/datasets/promptcloud/real-estate-data-from-trulia
 
